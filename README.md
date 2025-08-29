@@ -1,4 +1,5 @@
 📊 RETAIL DEMAND INSIGHTS DASHBOARD (SQL & Power BI Project)
+
 📌 Overview
 
 An advanced Business Intelligence Dashboard designed to analyze health insurance data, uncover cross-sell opportunities, and provide actionable insights. The project integrates SQL-based analysis with Power BI visualizations to support data-driven decision-making.
