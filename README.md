@@ -21,3 +21,11 @@ Database: MySQL
 Tools: Power BI
 
 Language: SQL
+
+## 📱 Mobile Extension Ideas
+
+Looking to extend this project to mobile platforms? Check out our [Ionic Project Suggestions](IONIC_PROJECT_IDEAS.md) document for ideas on building cross-platform mobile applications that complement this dashboard, including:
+- Mobile Sales Dashboard App
+- Retail Inventory Management
+- Customer Insights & Cross-sell Mobile App
+- And more!
